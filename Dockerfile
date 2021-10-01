@@ -1,6 +1,6 @@
 FROM ubuntu:16.04
 
-ENV VERSION="1.21.0"
+ENV VERSION="1.69.1"
 
 ENV INSTALL_PATH="/usr/local/bin/sentry-cli"
 ENV DOWNLOAD_URL="https://github.com/getsentry/sentry-cli/releases/download/$VERSION/sentry-cli-Linux-x86_64"
