@@ -1,3 +1,5 @@
+> NOTE: This image is deprecated, use the [offical sentry-cli image](https://hub.docker.com/r/getsentry/sentry-cli) instead.
+
 # sentry-cli-docker
 > Docker image with sentry-cli installed
 
